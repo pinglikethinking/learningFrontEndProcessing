@@ -17,4 +17,4 @@
 
 ## 介绍写下该文档的背景
 
-感兴趣请点击
+[感兴趣请点击](https://github.com/pinglikethinking/learningFrontEndProcessing/blob/master/thinking/writingbg.md)
