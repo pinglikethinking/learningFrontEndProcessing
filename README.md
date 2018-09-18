@@ -15,6 +15,3 @@
 
 为了让自己能尽快找到自己发展方向，从总结工作学习到的和自我学习中发现自己研究更深入的知识中，很有可能发现自己的发展方向吧。之前看文章有推荐番茄工作法，思维导图做总结，灵机一现，创建该库总结过去两年多所积累的知识以形成知识库，并记录今后的成果，愿某天某时看自己的思维导图和库的内容时，会有新发现。
 
-## 介绍写下该文档的背景
-
-[感兴趣请点击](https://github.com/pinglikethinking/learningFrontEndProcessing/blob/master/thinking/writingbg.md)
